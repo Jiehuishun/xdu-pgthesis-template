@@ -1,0 +1,1 @@
+xelatex -output-directory=./output helloworld.tex
